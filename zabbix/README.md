@@ -11,6 +11,7 @@ Python 2 and 3 are supported.
 Future versions must be supported too, if there is no deep changes.
 
 Installation:
+
 ```sh
 # pip install zabbix-api
 ```
@@ -25,6 +26,7 @@ Short example:
 ```
 
 See also:
+
 * http://www.zabbix.com/wiki/doc/api
 * https://www.zabbix.com/documentation/2.4/manual/api
 * http://www.zabbix.com/forum/showthread.php?t=15218
